@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangoShop", "MangoShop.csproj", "{661F61CE-E03A-4403-ACB4-72B83FE20D35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5B9BA0B9-26A6-40A0-9238-02C641323616}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{661F61CE-E03A-4403-ACB4-72B83FE20D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661F61CE-E03A-4403-ACB4-72B83FE20D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661F61CE-E03A-4403-ACB4-72B83FE20D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661F61CE-E03A-4403-ACB4-72B83FE20D35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD76E9B6-F076-4B9C-9A00-49F512BA1511}
+	EndGlobalSection
+EndGlobal
